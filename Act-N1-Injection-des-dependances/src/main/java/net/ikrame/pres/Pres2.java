@@ -4,11 +4,9 @@ import net.ikrame.dao.IDao;
 import net.ikrame.metier.IMetier;
 
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.lang.reflect.Method;
 import java.util.Scanner;
 
-public class pres2 {
+public class Pres2 {
     public static void main(String[] args) throws Exception{
 
         Scanner scanner =  new Scanner(new File("config.txt"));

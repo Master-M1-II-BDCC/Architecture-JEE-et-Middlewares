@@ -1,10 +1,9 @@
 package net.ikrame.pres;
 
-import net.ikrame.dao.DaoImpl;
 import net.ikrame.ext.DaoImplV2;
 import net.ikrame.metier.MetierImpl;
 
-public class pres1 {
+public class Pres1 {
     public static void main(String[] args) {
         DaoImplV2 d = new DaoImplV2();
         //DaoImpl d = new DaoImpl();
