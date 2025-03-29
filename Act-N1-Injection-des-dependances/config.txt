@@ -1,0 +1,2 @@
+net.ikrame.dao.DaoImpl
+net.ikrame.metier.MetierImpl

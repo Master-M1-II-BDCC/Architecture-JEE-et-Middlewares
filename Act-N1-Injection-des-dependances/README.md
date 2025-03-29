@@ -12,6 +12,7 @@
 ![img_3.png](img_3.png)
 5. Faire l'injection des dépendances :
    a. Par instanciation statique
+   ![img_4.png](img_4.png)
    b. Par instanciation dynamique
    c. En utilisant le Framework Spring
    - Version XML

@@ -6,6 +6,18 @@ public class MetierImpl implements IMetier {
 
     private IDao dao; //coupliage faible
 
+    /**
+     * Pour injecter dans l'attribut dao
+     * un objet d'une classe qui implemente l'interface IDAO
+     * au moment de l'instatiation
+     */
+    public MetierImpl(IDao dao) {
+        this.dao = dao;
+    }
+
+    public MetierImpl() {
+    }
+
     @Override
     public double calcul() {
         double t = dao.getData();
@@ -13,4 +25,12 @@ public class MetierImpl implements IMetier {
         return res;
     }
 
+    /**
+     * Pour injecter dans l'attribut dao
+     * un objet d'une classe qui implemente l'interface IDAO
+     * aprés instantiation
+     */
+    public void setDao(IDao dao) {
+        this.dao = dao;
+    }
 }
