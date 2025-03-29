@@ -14,6 +14,8 @@
    a. Par instanciation statique
    ![img_4.png](img_4.png)
    b. Par instanciation dynamique
+   ![img_5.png](img_5.png)
+   ![img_7.png](img_7.png)
    c. En utilisant le Framework Spring
    - Version XML
    - Version annotations
