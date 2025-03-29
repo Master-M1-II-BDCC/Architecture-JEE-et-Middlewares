@@ -25,3 +25,7 @@
    ![img_11.png](img_11.png)
    ![img_12.png](img_12.png)
    ![img_13.png](img_13.png)
+
+## **Partie 2 :**
+
+1. 
