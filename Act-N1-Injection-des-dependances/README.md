@@ -28,4 +28,17 @@
 
 ## **Partie 2 :**
 
-1. 
+1. A travers un fichier XML de configuration en utilisant Jax Binding (OXM : Mapping Objet XML)
+![img_14.png](img_14.png)
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
+![img_17.png](img_17.png)
+![img_18.png](img_18.png)
+![img_19.png](img_19.png)
+![img_20.png](img_20.png)
+2. En utilisant les annotations
+3. Possibilité d'injection via :
+   a- Le constructeur
+   b- Le Setter
+   c- Attribut (accès direct à l'attribut : Field)
+
