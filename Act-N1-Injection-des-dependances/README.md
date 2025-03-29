@@ -17,5 +17,8 @@
    ![img_5.png](img_5.png)
    ![img_7.png](img_7.png)
    c. En utilisant le Framework Spring
+   ![img_8.png](img_8.png)
    - Version XML
+   ![img_9.png](img_9.png)
+   ![img_10.png](img_10.png)
    - Version annotations
