@@ -3,6 +3,7 @@ package net.ikrame.dao;
 import org.springframework.stereotype.Component;
 
 @Component("d")
+
 public class DaoImpl implements IDao{
 
     @Override
