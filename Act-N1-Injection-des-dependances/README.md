@@ -2,7 +2,7 @@
 
 ## **Partie 1 :**
 
-1. Créer l'interface IDao avec une méthode getData
+1. Interface IDao : Création d'une interface simple définissant une méthode getData.
 ![img.png](img.png)
 2. Créer une implémentation de cette interface
 ![img_1.png](img_1.png)
