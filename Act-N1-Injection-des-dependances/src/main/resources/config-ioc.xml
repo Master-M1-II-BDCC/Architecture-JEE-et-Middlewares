@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="dao" class="net.ikrame.dao.DaoImpl"/>
+
+    <bean id="metier" class="net.ikrame.metier.MetierImpl">
+        <property name="dao" ref="dao"/>
+    </bean>
+</beans>
